@@ -11,6 +11,5 @@ export default defineConfig({
       }
     }
   )],
-  base: '/madies-wardrobe/'
-  
+  base: "/madies-wardrobe/",
 })
