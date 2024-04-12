@@ -11,7 +11,7 @@ export default {
       },
       backgroundImage:{
         'wardrobe-1': "url('/src/assets/wardrobe.jpg')",
-      }
+      },
     },
   },
   plugins: [],
